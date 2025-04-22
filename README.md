@@ -39,8 +39,8 @@
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AyanKhan090400"><img alt="Muhammed Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliaftabsheikh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AyanKhan090400"><img alt="Muhammed Ayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaftabsheikh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AyanKhan090400"><img alt="Muhammed Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayankhan090400&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AyanKhan090400"><img alt="Muhammed Ayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayankhan090400&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   <br/>
