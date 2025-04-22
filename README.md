@@ -59,9 +59,9 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/AyanKhan090400/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aliaftabsheikh">
+    <img src="https://komarev.com/ghpvc/?username=ayankhan090400">
 </a>
-<a href="https://github.com/AyanKhan090400?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AyanKhan090400?tab=followers"><img src="https://img.shields.io/github/followers/ayankhan090400?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br/>
