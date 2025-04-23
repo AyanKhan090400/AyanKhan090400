@@ -28,13 +28,7 @@
 - Project Management (git, Github)
 - Deployment (Netlify, Vercel)
 <br/>
- 
- <p align="center">
-    <a href="https://github.com/AyanKhan090400">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammed Ayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayankhan090400&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
+
  
  ## 📊 My Github Stats
 
