@@ -24,9 +24,13 @@
  
  ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript, Typescript, React, Tailwind CSS
+- HTML, CSS, Javascript, EcmaScript, Typescript
+- MERN Stack (ReactJs, NodeJs, NextJs)
+- Styling (Tailwindcss, Bootstrap)
+- Databases (Firebase Firestore, MongoDB)
 - Project Management (git, Github)
-- Deployment (Netlify, Vercel)
+- Design (Figma, Canva)
+- Deployment (Firebase, Heroku, Netlify, Vercel)
 <br/>
 
  
