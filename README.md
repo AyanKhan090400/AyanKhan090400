@@ -30,7 +30,7 @@
 - Databases (Firebase Firestore, MongoDB)
 - Project Management (git, Github)
 - Design (Figma, Canva)
-- Deployment (Firebase, Heroku, Netlify, Vercel)
+- Deployment (Firebase, Netlify, Vercel)
 <br/>
 
  
