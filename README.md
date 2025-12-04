@@ -24,7 +24,7 @@
  
  ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript, Typescript
+- HTML, CSS, Javascript, Typescript, React, Tailwind CSS
 - Project Management (git, Github)
 - Deployment (Netlify, Vercel)
 <br/>
